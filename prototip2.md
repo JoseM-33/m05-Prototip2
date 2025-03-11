@@ -22,6 +22,8 @@ graph TD;
     F --> L[Perfil del Usuario]
 ```
 
+---
+
 ## 2. Descripción de las Vistas
 
 ## 1. Pantalla de inicio
